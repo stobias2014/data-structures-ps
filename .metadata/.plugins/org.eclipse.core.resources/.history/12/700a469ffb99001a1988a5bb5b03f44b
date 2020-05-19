@@ -1,0 +1,17 @@
+package tobias.saul.app;
+
+public class CardStackApp {
+	
+	_Stack<String> stack = new _Stack();
+	
+	public static void main(String[] args) {
+		CardStackApp app = new CardStackApp();
+		
+		
+	}
+	
+	public void stackCards() {
+		
+	}
+
+}

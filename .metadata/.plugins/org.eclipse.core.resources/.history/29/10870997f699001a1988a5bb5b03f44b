@@ -1,0 +1,23 @@
+
+public class _Stack<X> {
+	
+	// to hold data
+	private X[] data;
+	
+	private int stackPointer;
+	
+	// initialize size of container
+	public _Stack() {
+		data = (X[]) new Object[1000];
+	}
+	
+	//add item to top of stack
+	public void push(X item) {
+		
+	}
+	
+	public X pop() {
+		return null;
+	}
+	
+}

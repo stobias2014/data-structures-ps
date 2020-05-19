@@ -1,0 +1,8 @@
+
+public class _Stack<X> {
+	
+	private X[] data;
+	
+	
+	
+}

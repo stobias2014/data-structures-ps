@@ -1,0 +1,10 @@
+
+public class _Stack<X> {
+	
+	private X[] data;
+	
+	public _Stack() {
+		data = new Object[1000];
+	}
+	
+}

@@ -1,0 +1,20 @@
+
+public class _Stack<X> {
+	
+	// to hold data
+	private X[] data;
+	
+	// initialize size of container
+	public _Stack() {
+		data = (X[]) new Object[1000];
+	}
+	
+	public void push(X item) {
+		
+	}
+	
+	public X pop() {
+		
+	}
+	
+}

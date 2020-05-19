@@ -1,0 +1,13 @@
+
+public class _Stack<X> {
+	
+	// to hold data
+	private X[] data;
+	
+	public _Stack() {
+		data = (X[]) new Object[1000];
+	}
+	
+	
+	
+}
