@@ -1,5 +1,6 @@
 package tobias.saul.datastructure;
 
+//LIFO
 public class _Stack<X> {
 	
 	// to hold data
