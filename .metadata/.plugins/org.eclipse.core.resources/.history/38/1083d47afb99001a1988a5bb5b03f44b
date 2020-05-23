@@ -1,9 +1,0 @@
-package tobias.saul.app;
-
-public class CardStackApp {
-	
-	public static void main(String[] args) {
-		
-	}
-
-}
